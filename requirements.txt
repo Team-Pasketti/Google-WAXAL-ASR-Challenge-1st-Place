@@ -1,0 +1,27 @@
+tqdm
+pathlib
+pandas
+numpy
+soundfile
+librosa
+evaluate
+asr-ensemble==1.0.2
+transformers==4.57.6
+nemo_toolkit[asr,tts]==2.7.2
+datasets==3.6.0
+dataclasses
+num2words
+ml_collections==1.1.0 # msst
+beartype==0.22.9 # msst
+rotary_embedding_torch==0.9.1 # msst
+llvmlite==0.41.1 # parakeet
+numba==0.58.1 # parakeet
+--extra-index-url https://download.pytorch.org/whl/cu128
+torch==2.11.0
+torchvision==0.26.0
+torchaudio==2.11.0
+loguru
+pyctcdecode==0.5.0
+nagisa==0.3.0
+peft
+bitsandbytes
