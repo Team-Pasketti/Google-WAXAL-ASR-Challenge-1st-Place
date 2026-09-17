@@ -8,6 +8,9 @@ Voice technologies have reshaped how people access digital services, but most Af
 
 Scoring uses a multi-metric approach - the weighted mean of Word Error Rate (WER) and Character Error Rate (CER), each weighted 0.5. The combination balances word-level accuracy against character-level robustness, which matters given how much spelling varies across African languages. 
 
+## Solution documentation
+* [Full solution documentation](docs/README.md)
+
 ## Requirements
 * Python 3.10+
 * All experiments were run on a single NVIDIA A6000 Blackwell 96 GB. However, the pipeline should work on GPUs with less memory - you just need to adjust the batch sizes accordingly.
