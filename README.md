@@ -1,6 +1,6 @@
 # Google WAXAL ASR Challenge (1st place solution)
 
-1st place solution for [Google WAXAL ASR Challenge](https://zindi.world/competitions/google-waxal-asr-challenge) hosted by Zindi. Code was prepared by team [Roman Solovyev](https://github.com/ZFTurbo) and [Enes](https://github.com/enes3774).
+1st place solution for [Google WAXAL ASR Challenge](https://zindi.world/competitions/google-waxal-asr-challenge) hosted by Zindi. Code was prepared by team [Roman Solovyev](https://github.com/ZFTurbo) and [Enes Mahmut Kulak](https://github.com/enes3774).
 
 The task was: Build an automatic speech recognition (ASR) system using the [WAXAL dataset](https://huggingface.co/datasets/google/WaxalNLP) that generalises to previously unseen speech data, focusing on three languages: Lingala, Shona, and Luganda.
 
